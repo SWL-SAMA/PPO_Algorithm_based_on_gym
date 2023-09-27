@@ -12,7 +12,7 @@ This project is one of my assignments for the course "Reinforcement Learning" du
     conda create -n YOUR_ENV_NAME python==3.7 
     ```
     The python version must be 3.7.
-2. Install [Pytorch](https://pytorch.org/) which is suitable for your GPU or CPU(not recommended):
+2. Install CPU version [Pytorch](https://pytorch.org/):
     ```
     pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
     ```
